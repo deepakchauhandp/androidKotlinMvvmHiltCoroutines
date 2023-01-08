@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color_grey_b5">#b5b5b5</color>
+    <color name="text_color_grey_80">#787b80</color>
+    <color name="text_color_6_grey">#666666</color>
+    <color name="text_color_black">#000000</color>
+    <color name="text_color_black_2b">#2b2a29</color>
+    <color name="text_color_black_66">#666666</color>
+    <color name="text_color_purple">#b04993</color>
+    <color name="text_color_green_17">#17af00</color>
+    <color name="text_color_red_0000">#ff0000</color>
+    <color name="line_color_grey">#f1f1f1</color>
+    <color name="bg_color_grey">#ececec</color>
+    <color name="bg_color_grey_f9">#f9f9f9</color>
+    <color name="bg_color_blue_09">#0964e8</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="app_blue">#00a5cd</color>
+    <color name="light_grey">#bbbbbb</color>
+    <color name="grey_light">#f2f2f2</color>
+    <color name="trans">#00FFFFFF</color>
+    <color name="dark_ff121212">#ff121212</color>
+    <color name="grey_e5e5e5">#e5e5e5</color>
+    <color name="grey_ffe5e5e5">#ffe5e5e5</color>
+    <color name="grey_b3b3b3">#b3b3b3</color>
+    <color name="grey">#ffadadad</color>
+</resources>

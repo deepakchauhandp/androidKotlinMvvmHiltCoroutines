@@ -1,0 +1,49 @@
+<resources>
+    <string name="label_select_language" translatable="false">Select language</string>
+    <string name="lang_english" translatable="false">English</string>
+    <string name="lang_english_code" translatable="false">en</string>
+    <string name="language_preferred">LANGUAGE PREFERRED*</string>
+    <string name="button_label_next">Next</string>
+    <string name="button_label_proceed">Proceed</string>
+    <string name="button_label_register">Register</string>
+    <string name="label_todo" translatable="false">TODO</string>
+    <string name="label_seconds">Seconds</string>
+
+    <!--Error message-->
+    <string name="error_message_server" translatable="false">Please check your internet connection. It seems like it\'s slow.</string>
+    <string name="error_message_invalid_mobile">Invalid mobile number</string>
+    <string name="error_message_invalid_input_data">Please enter valid data</string>
+    <string name="label_phone_number">Phone Number</string>
+    <string name="label_mobile_number_verification_message">We may send a verification code to this number</string>
+    <string name="label_mobile_number">Mobile number</string>
+    <string name="label_enter_otp_sent_on_your_mobile">Enter OTP, sent on your mobile</string>
+    <string name="label_did_not_get_the_otp">Didn\'t get the OTP</string>
+    <string name="label_resend">Resend</string>
+    <string name="label_login_with_different_mobile_number">Login with different mobile number</string>
+    <string name="label_resend_otp_in">Resend OTP in</string>
+    <string name="label_change_mobile_number">Change mobile number</string>
+    <string name="message_do_you_want_to_go_back">Do you really want to go back ?</string>
+    <string name="message_change_mobile_number">Do you really want to change the mobile number ?</string>
+    <string name="label_yes">Yes</string>
+    <string name="label_no">No</string>
+    <string name="label_terms_conditions"><![CDATA[Terms & conditions]]></string>
+    <string name="label_setup_your_account_with">Setup your account with</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_email">Email</string>
+    <string name="label_i_agree_with">I agree with</string>
+
+    <string name="label_enter_mobile_number">Enter mobile number</string>
+    <string name="label_gallery">Gallery</string>
+    <string name="label_capture_image">Capture Image</string>
+    <string name="error_valid_otp">Enter valid OTP</string>
+
+    <string-array name="languageArray">
+        <item>@string/lang_english</item>
+    </string-array>
+
+    <string-array name="languageCodeArray">
+        <item>@string/lang_english_code</item>
+    </string-array>
+
+</resources>

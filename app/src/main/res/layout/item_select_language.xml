@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <variable
+            name="model"
+            type="com.dpassets.codebase.data.models.language.LanguageModel" />
+
+    </data>
+
+    <LinearLayout
+        android:id="@+id/ll_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="?android:attr/selectableItemBackground"
+        android:orientation="vertical">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:fontFamily="@font/poppins"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/trans"
+            android:text="@{model.language}"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:textColor="@color/dark_ff121212"
+            android:textSize="@dimen/_14ssp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@color/grey_ffe5e5e5" />
+    </LinearLayout>
+</layout>
