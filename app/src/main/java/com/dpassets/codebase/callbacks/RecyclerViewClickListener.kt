@@ -1,11 +1,8 @@
-package com.dpassets.codebase.callbacks;
+package com.dpassets.codebase.callbacks
 
-import android.view.View;
+import android.view.View
 
-public interface RecyclerViewClickListener {
-
-    void onClick(View v, int position);
-
-    void onLongClick(View v, int position);
+interface RecyclerViewClickListener {
+    fun onClick(v: View?, position: Int)
+    fun onLongClick(v: View?, position: Int)
 }
-
